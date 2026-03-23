@@ -16,7 +16,7 @@
 
 
 
-📄 [Check out my Resume]([https://drive.google.com/file/d/1QplHnMDTsxKa1gfIUrM_bahAZ-FikUd5/view?usp=drive_link](https://drive.google.com/file/d/1EogkbPQf2sLg-MlfUvHln53OskXJ9TTN/view?usp=drive_link))
+📄 [Check out my Resume](https://drive.google.com/file/d/1EogkbPQf2sLg-MlfUvHln53OskXJ9TTN/view?usp=drive_link)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-shaban-9bb119360) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammed.shabaan.099@gmail.com) 
